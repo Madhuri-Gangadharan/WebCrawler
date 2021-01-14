@@ -10,11 +10,11 @@
 
 ## Steps to run the application:
 
-### 1.	Change the directory to where the WebCrawler.py file is placed    cd < file path>
+ 1.	Change the directory to where the WebCrawler.py file is placed    cd < file path>
 
-### 2.	Using command “pip install <library name> “install all the libraries mentioned above
+ 2.	Using command “pip install <library name> “install all the libraries mentioned above
 
-### 3.	Run the code using command:   python3 WebCrawler.py
+ 3.	Run the code using command:   python3 WebCrawler.py
             Enter the start URL to crawl               # The terminal prompt the user to enter the URL
             https://www.rescale.com/security/          # The URL that user wishes to Crawl
 
