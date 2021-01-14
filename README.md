@@ -7,7 +7,6 @@
 *  Python 3.x.x 
 * Libraries:  requests, bs4, futures or futures3, urlib, time,  collections
 
-### The archive folder contains WebCrawler.py
 
 ## Steps to run the application:
 
