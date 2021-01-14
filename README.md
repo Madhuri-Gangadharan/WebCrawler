@@ -1,15 +1,15 @@
 # WebCrawler
 
-###Simple web crawler which fetches URLs and outputs crawl results on the console as the crawl proceeds.
+Simple web crawler which fetches URLs and outputs crawl results on the console as the crawl proceeds.
 
-##Requirements:
+## Requirements:
 
-###Python 3.x.x 
-###Libraries:  requests, bs4, futures or futures3, urlib, time,  collections
+ Python 3.x.x 
+ Libraries:  requests, bs4, futures or futures3, urlib, time,  collections
 
 The archive folder contains WebCrawler.py
 
-Steps to run the application:
+## Steps to run the application:
 
 1.	Change the directory to where the WebCrawler.py file is placed    cd < file path>
 
